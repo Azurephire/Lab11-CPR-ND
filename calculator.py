@@ -51,12 +51,7 @@ def div(a, b):
         raise ZeroDivisionError
     return b / a
 
-def logarithm(a, b):
-    if b < 1 or a == 1 or a <= 0:
-        raise ValueError
-    return math.log(b, a)
-
-def log(a,b):
+def logarithm(a,b):
     if b < 1 or a == 1 or a <= 0:
         raise ValueError
     else:
