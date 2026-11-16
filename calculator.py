@@ -1,3 +1,7 @@
+# https://github.com/Azurephire/Lab11-CPR-ND
+# Partner 1: Nicholas Di Grazia
+# Partner 2: Camila Perez Ramirez
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
